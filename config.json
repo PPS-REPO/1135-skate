@@ -1,0 +1,24 @@
+{
+    "problem_title": "problem title",
+    "problem_type": "stdio",
+    "checker": "",
+    "checker_language": "",
+    "validator": "",
+    "validator_language": "",
+    "subtask": false,
+    "limits": {
+        "time": 1000,
+        "memory": 536870912,
+        "factor": {}
+    },
+    "enable_language": [],
+    "statements": [],
+    "solutions": [],
+    "generators": [],
+    "subtask_group": [],
+    "genscript": [],
+    "versions": {
+        "config": 1,
+        "repository": 1
+    }
+}
