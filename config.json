@@ -18,7 +18,13 @@
             "label": "statement"
         }
     ],
-    "solutions": [],
+    "solutions": [
+        {
+            "name": "sol.cpp",
+            "language": "cpp17",
+            "type": "MCS/AC"
+        }
+    ],
     "generators": [],
     "subtask_group": [],
     "genscript": [],
