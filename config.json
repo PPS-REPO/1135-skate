@@ -25,7 +25,13 @@
             "type": "MCS"
         }
     ],
-    "generators": [],
+    "generators": [
+        {
+            "name": "gen.cpp",
+            "language": "cpp17",
+            "alias": "g"
+        }
+    ],
     "subtask_group": [],
     "genscript": [],
     "versions": {
