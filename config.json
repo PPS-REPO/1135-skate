@@ -24,6 +24,10 @@
         {
             "name": "function_list",
             "label": "유사 난수 생성기"
+        },
+        {
+            "name": "output",
+            "label": "출력"
         }
     ],
     "solutions": [
