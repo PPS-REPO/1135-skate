@@ -3,8 +3,8 @@
     "problem_type": "stdio",
     "checker": "",
     "checker_language": "",
-    "validator": "",
-    "validator_language": "",
+    "validator": "validator.cpp",
+    "validator_language": "cpp17",
     "subtask": false,
     "limits": {
         "time": 1000,
