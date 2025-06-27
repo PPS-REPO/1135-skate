@@ -1,8 +1,8 @@
 {
     "problem_title": "스케이트 연습과 쿼리",
     "problem_type": "stdio",
-    "checker": "",
-    "checker_language": "",
+    "checker": "lcmp.cpp",
+    "checker_language": "cpp17",
     "validator": "validator.cpp",
     "validator_language": "cpp17",
     "subtask": false,
