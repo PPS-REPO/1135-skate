@@ -12,7 +12,12 @@
         "factor": {}
     },
     "enable_language": [],
-    "statements": [],
+    "statements": [
+        {
+            "name": "statement",
+            "label": ""
+        }
+    ],
     "solutions": [],
     "generators": [],
     "subtask_group": [],
