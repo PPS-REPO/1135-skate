@@ -20,6 +20,10 @@
         {
             "name": "input",
             "label": "입력"
+        },
+        {
+            "name": "function_list",
+            "label": "유사 난수 생성기"
         }
     ],
     "solutions": [
