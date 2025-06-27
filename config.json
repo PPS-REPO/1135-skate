@@ -35,7 +35,7 @@
     "subtask_group": [],
     "genscript": [
         {
-            "script": "g 1000000 50 5000 123987123 100000 1 1000000 998244353",
+            "script": "g 1000000 50 5000 123987123 100000 1 1000000 876543 1000000 998244353",
             "subtask_group": "",
             "description": "",
             "is_example": false,
