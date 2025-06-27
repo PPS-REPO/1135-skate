@@ -35,14 +35,21 @@
     "subtask_group": [],
     "genscript": [
         {
-            "script": "1000000 50 5000 123987123 100000 1 1000000 998244353",
+            "script": "g 1000000 50 5000 123987123 100000 1 1000000 998244353",
             "subtask_group": "",
             "description": "",
             "is_example": false,
             "only_deploy": false
         },
         {
-            "script": "1000000 10101 1000000 12345534 100000 1 100000 76543 1000000 9342346",
+            "script": "g 1000000 10101 1000000 12345534 100000 1 100000 76543 1000000 9342346",
+            "subtask_group": "",
+            "description": "",
+            "is_example": false,
+            "only_deploy": false
+        },
+        {
+            "script": "g 3 1 3 6 3 1 2 2 3 7",
             "subtask_group": "",
             "description": "",
             "is_example": false,
