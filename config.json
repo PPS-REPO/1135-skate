@@ -16,6 +16,10 @@
         {
             "name": "statement",
             "label": "문제"
+        },
+        {
+            "name": "input",
+            "label": "입력"
         }
     ],
     "solutions": [
