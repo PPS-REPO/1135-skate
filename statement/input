@@ -1,0 +1,9 @@
+이 문제에서 $V_k,L_i,R_i$ 값은 직접 주어지지 않고 유사 난수 생성기로 생성한 것을 사용할 것이다. 자세한 사용법은 아래에 기술되어 있다.
+
+첫 번째 줄에 양의 정수 $N$이 주어진다. ($1\leq N\leq 10^6$)
+
+두 번째 줄에 $V_k$의 값을 생성하기 위한 세 개의 정수 $V_{min}, V_{max}, V_{seed}$가 공백을 두고 주어진다. ($1\leq V_{min},V_{max},V_{seed}\leq 10^9$|단, $1\leq k\leq N$)
+
+세 번째 줄에 양의 정수 $Q$가 주어진다. ($1\leq Q\leq 10^5$)
+
+네 번째 줄에 $L_i, R_i$ 값을 생성하기 위한 다섯 개의 정수 $L_{min},L_{max},R_{min},R_{max},Q_{seed}$가 공백을 두고 주어진다. ($1\leq L_{min}\leq (L_{max},R_{min})\leq R_{max}\leq N, 1\leq Q_{seed}\leq 10^9$|단, $1\leq i\leq Q$)
