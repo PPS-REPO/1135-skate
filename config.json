@@ -22,7 +22,7 @@
         {
             "name": "sol.cpp",
             "language": "cpp17",
-            "type": "MCS/AC"
+            "type": "MCS"
         }
     ],
     "generators": [],
