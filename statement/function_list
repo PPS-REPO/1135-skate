@@ -1,0 +1,9 @@
+다음은 각 언어별로 문제의 유사 난수 생성기를 구현한 코드이다. 언어에 맞는 코드를 그대로 사용하면 된다. 유사 난수 생성 방법과 문제의 풀이와는 관련이 없음이 보장된다.
+
+- C/C++ : https://onlinegdb.com/dpcDkEEWx
+- Python : https://onlinegdb.com/LL8tg_USZ
+
+함수 목록
+- get_random(x, y) : x 이상 y 이하의 범위에서 임의의 정수를 반환한다.
+- ready(seeds) : 첫 seed 값을 설정한다.
+
