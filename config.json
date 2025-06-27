@@ -52,7 +52,7 @@
             "script": "g 3 1 3 6 3 1 2 2 3 7",
             "subtask_group": "",
             "description": "",
-            "is_example": false,
+            "is_example": true,
             "only_deploy": false
         }
     ],
