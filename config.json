@@ -5,6 +5,8 @@
     "checker_language": "cpp17",
     "validator": "validator.cpp",
     "validator_language": "cpp17",
+    "interactor": "",
+    "interactor_language": "",
     "subtask": false,
     "limits": {
         "time": 1000,
@@ -112,6 +114,7 @@
             "only_deploy": false
         }
     ],
+    "manual_example": [],
     "versions": {
         "config": 1,
         "repository": 1
